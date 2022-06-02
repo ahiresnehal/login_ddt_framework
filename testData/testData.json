@@ -1,0 +1,10 @@
+{
+  "test":
+  [
+    {"useremail": "snehalahire@gmail.com",
+    "password1": "snehal193"},
+
+    {"useremail": "snehalahire107@gmail.com",
+    "password1": "snehal1993"}
+  ]
+}
